@@ -4,7 +4,7 @@
 
 This is a skin/theme for [Trillian](https://trillian.im/) which has been designed to emulate the glorious look and feel of Windows Live Messenger or MSN Messenger.
 
-**Note:** Currently [not compatible](https://github.com/dizzy-egg/TrillianLiveMessagewindow/issues/1) with latest versions of Trillian (6.4 onwards).
+⚠️ **Note:** Currently [not compatible](https://github.com/dizzy-egg/TrillianLiveMessagewindow/issues/1) with latest versions of Trillian (6.4 onwards).
 
 ## Screenshot
 
